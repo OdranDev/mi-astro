@@ -16,11 +16,12 @@ section {
   p{
     text-align: center;
     font-size: large;
-  }
+    color: #007acc;
+    font-weight: bold;
+}
 
   p img {
-    width: 2rem;
-    height: 1rem;
-    color: red;
+    width: 6rem;
+    height: 3rem;
   }
   
